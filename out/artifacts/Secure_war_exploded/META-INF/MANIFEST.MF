@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: secure
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Admin
+Implementation-Vendor-Id: kg.last
+Created-By: IntelliJ IDEA
+Build-Jdk: 11.0.3
+Main-Class: ${start-class}
+
